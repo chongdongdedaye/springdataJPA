@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JPA_day01/pom.xml" />
+        <option value="G:/springdata/day01~03/day01/03-代码/jpa-day1/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_day03_spec/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_day03_onetomany/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_day03_manytomany/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
